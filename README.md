@@ -1,5 +1,4 @@
-
-
+![image](https://user-images.githubusercontent.com/108605935/212830632-d7e0471b-e6af-4cfb-9694-7d8af2054b08.png)
 
 
 <br/>
@@ -55,7 +54,7 @@ To get a local copy up and running follow these simple example steps.
 4. Open visual code
 5. Creating conda environment
 6. Deployment on AWS EC2 without docker file
-7. 11. Setup security groups
+7. Setup security groups
 8. Now Run the deployed project
 
 ### Prerequisites
@@ -67,17 +66,3 @@ To get a local copy up and running follow these simple example steps.
 5. PuTTYgen (To create private key(.ppk) using pair key(.pem) )
 6. WinSPC
 
-### Creating A Pull Request
-
-
-
-## Authors
-
-* **** - ** - []() - **
-* **** - ** - []() - **
-
-## Acknowledgements
-
-* []()
-* []()
-* []()
